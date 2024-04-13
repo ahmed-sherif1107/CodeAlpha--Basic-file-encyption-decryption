@@ -20,12 +20,12 @@ Compile: Compile the source code using a C++ compiler.
 
 Copy code
 ```bash
-g++ caesar_cipher.cpp -o caesar_cipher
+g++ enc_dec_prog.cpp -o enc_dec_prog
 ```
 Run: Run the compiled executable.
 
 ```bash
-./caesar_cipher
+./enc_dec_prog
 ```
 
 
